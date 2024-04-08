@@ -2,9 +2,7 @@
 <!--<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg">-->
 <!--<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" max-width: 100%;>-->
  
-[![An image of @rohitagr0310's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitagr0310)](https://holopin.io/@rohitagr0310)
- 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 𝐇ola,&lt;I'm Rohit Agarwal/&gt;! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 𝐇ola,&lt;I'm Roshni Menaria/&gt;! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 </h1>
 
@@ -17,19 +15,16 @@
 ## 🌐 Let's Connect and have a Chat! :
 
 <p align="left" style='margin: 16px 4px 8px;'>
-    <a href="mailto:rohitagr2610@gmail.com" target="_blank" rel="noreferrer">
+    <a href="mailto:roshnimenaria@gmail.com" target="_blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:ritiksharma0405@gmail.com" height="45" width="45" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://www.linkedin.com/in/rohitagarwal2610/" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/roshni-menaria-0a9282257" target="_blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/ritiksharma-code/" height="45" width="45" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://www.instagram.com/_rohitagar2610_/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/ritik_sharma454/" height="45" width="45" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-  <a href="https://github.com/rohitagr0310" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Roshni568" target="_blank" rel="noreferrer">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Github_logo_svg.svg/600px-Github_logo_svg.svg.png?20230420150203" alt="https://github.com/ritiksharma-code" height="45" width="45" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-  <a href="https://www.codechef.com/users/rohitagr0310" target="_blank" rel="noreferrer">
+  <a href="https://www.codechef.com/users/roshnimenaria" target="_blank" rel="noreferrer">
         <img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="https://www.codechef.com/users/ritik_sharma45" height="45" width="45" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://auth.geeksforgeeks.org/user/rohitag3uch" target="_blank" rel="noreferrer">
@@ -74,15 +69,15 @@
 <h1>My Learning Progress</h1>
 
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/646c77f5cb6301e67f891250?variant=dark&roadmaps=computer-science%2Ccpp%2Cbackend%2Cdevops" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/66136a4b6e2052bda3db9d33?variant=dark)](https://roadmap.sh)
 
 #
 <br />
 <h1>Github Stats ⚡:</h1>
 
 
-![](https://github-profile-trophy.vercel.app/?username=rohitagr0310&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-<p align="center"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitagr0310&theme=highcontrast&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"/>   &nbsp;&nbsp;   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitagr0310&layout=compact&theme=highcontrast&count_private=true&hide_border=true" alt="Top Languages"/></p>
-<p align="center"><img align="center" height="180em" src="https://streak-stats.demolab.com/?user=rohitagr0310&theme=highcontrast&hide_border=true"alt="GitHub Streak"/></p>
-<p align = "center"><a href="https://github.com/ritiksharma-code/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rohitagr0310&bg_color=000000&color=FFFF00&line=f78800&point=FFFFFF&hide_border=true" /></a></p>
+![](https://github-profile-trophy.vercel.app/?username=Roshni568&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<p align="center"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Roshni568&theme=highcontrast&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"/>   &nbsp;&nbsp;   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitagr0310&layout=compact&theme=highcontrast&count_private=true&hide_border=true" alt="Top Languages"/></p>
+<p align="center"><img align="center" height="180em" src="https://streak-stats.demolab.com/?user=Roshni568&theme=highcontrast&hide_border=true"alt="GitHub Streak"/></p>
+<p align = "center"><a href="https://github.com/ritiksharma-code/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Roshni568&bg_color=000000&color=FFFF00&line=f78800&point=FFFFFF&hide_border=true" /></a></p>
 
