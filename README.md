@@ -9,7 +9,7 @@
 <img align="right"  height="271" width="400" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ5cW84eXEwdXd6MTBlbXlhcjR2bnNsZXk1cmg5YTgyZ2xoZDI1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"/>
 
 # 💫 About Me:
- <br />👯 I’m currently learning **Data Analytics, Data Visualisation, Machine Learning, Generative AI, React.js, Express.js**<br />🌱 I’m currently learning C++,  React.js, <br />💬 Ask me about logic building and learning <br />⚡ Fun fact "'𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜"
+ <br />👯 I’m currently learning **Data Analytics, Data Visualisation, Machine Learning, Generative AI, React.js, Express.js**<br />🌱 I’m currently learning C++,  React.js, <br /> I'm currently learning Power Bi<br>💬 Ask me about logic building and learning <br />⚡ Fun fact "'𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜"
 
 
 ## 🌐 Let's Connect and have a Chat! :
