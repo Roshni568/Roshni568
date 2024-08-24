@@ -1,7 +1,7 @@
 <h1 align="center">
 <!--<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg">-->
 <!--<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" max-width: 100%;>-->
- 
+ <img src="https://cdn.sanity.io/images/tlr8oxjg/production/b2f77e26f28685a51fb7686a39d97a526e03edc3-1456x816.png?w=3840&q=100&fit=clip&auto=format" width="60px"/>
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 𝐇ola,&lt;I'm Roshni Menaria/&gt;! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 </h1>
