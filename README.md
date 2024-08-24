@@ -9,7 +9,7 @@
 <img align="right"  height="271" width="400" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ5cW84eXEwdXd6MTBlbXlhcjR2bnNsZXk1cmg5YTgyZ2xoZDI1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"/>
 
 # 💫 About Me:
-🔭 I'm currently working on my Open Source Contribution. <br />👯 I’m currently learning **Data Analytics, Data Visualisation, Machine Learning, Generative AI, React.js, Express.js**<br />🌱 I’m currently learning C++, Java, React.js, Electron <br />💬 Ask me about logic building and learning <br />⚡ Fun fact "'𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜"
+ <br />👯 I’m currently learning **Data Analytics, Data Visualisation, Machine Learning, Generative AI, React.js, Express.js**<br />🌱 I’m currently learning C++,  React.js, <br />💬 Ask me about logic building and learning <br />⚡ Fun fact "'𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜"
 
 
 ## 🌐 Let's Connect and have a Chat! :
@@ -26,9 +26,6 @@
     </a>
   <a href="https://www.codechef.com/users/roshnimenaria" target="_blank" rel="noreferrer">
         <img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="https://www.codechef.com/users/ritik_sharma45" height="45" width="45" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://auth.geeksforgeeks.org/user/rohitag3uch" target="_blank" rel="noreferrer">
-        <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20201213110552/logo.png" height="45" width="45" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
 </p>
 
