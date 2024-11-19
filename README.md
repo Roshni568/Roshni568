@@ -11,7 +11,7 @@
 <img align="right"  height="271" width="400" alt="GIF" src="https://camo.githubusercontent.com/c894cf20fe968187ad03947eb5afcf6871812a4aa3866a0b21dc08305653efbb/68747470733a2f2f63646e2e766964656f706c617374792e636f6d2f616e696d6174696f6e2f6d69646e696768742d636f64696e672d6c6174652d6e696768742d73657373696f6e2d6c6f66692d616e696d6174696f6e2d73746f636b2d616e696d6174696f6e2d35313931372d31303234783537362e6a7067"/>
 
 # 💫 About Me:
- <br />👯 I’m currently learning **Data Analytics, Data Visualisation, Machine Learning, Generative AI, React.js, Express.js**<br />🌱 I’m currently learning C++,  React.js, <br /> 🌱 I'm currently learning Power Bi<br>💬 Ask me about logic building and learning <br />⚡ Fun fact "'𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜"
+ <br />👯 I’m currently learning **Data Analytics, Data Visualisation, Machine Learning, Generative AI, React.js, Express.js**<br />🌱 I’m currently learning C++,  React.js <br /> 🌱 I'm currently learning Power Bi<br>💬 Ask me about logic building and learning <br />⚡ Fun fact "'𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜"
 
 
 ## 🌐 Let's Connect and have a Chat! :
@@ -47,7 +47,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
+![pyspark](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
