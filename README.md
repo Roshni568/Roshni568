@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 𝐇ola,&lt;I'm Roshni Menaria/&gt;! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 </h1>
-<img align="right"  height="271" width="400" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fanime-girl-coding-night-with-city-view_306114894.htm&psig=AOvVaw3uZPeapRaAzYWwXYqxLMjD&ust=1732118844837000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCQutjj6IkDFQAAAAAdAAAAABAZ"/>
+<img align="right"  height="271" width="400" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy_MXILKT9YzrEUeZVnp9ev9EBc9AIVNS-IYzUOWDifajbH_Wmy10mT2iOJAGGnplD-zk&usqp=CAU"/>
 
 
 # 💫 About Me:
