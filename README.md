@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 𝐇ola,&lt;I'm Roshni Menaria/&gt;! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 </h1>
-<img align="right"  height="271" width="400" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy_MXILKT9YzrEUeZVnp9ev9EBc9AIVNS-IYzUOWDifajbH_Wmy10mT2iOJAGGnplD-zk&usqp=CAU"/>
+<img align="right"  height="271" width="400" alt="GIF" src="https://backiee.com/static/wallpapers/1000x563/386745.jpg"/>
 
 
 # 💫 About Me:
